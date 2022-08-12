@@ -4,9 +4,9 @@ Hi,
 
 this is my experiment of the year, 
 
-I have always been interested in coding, 
+I have always been interested in coding but
 
-even whithout being a software engineer,
+even whithout being a software engineer, 
 
 my goal is to:
 
